@@ -5,17 +5,15 @@ image: /img/home-jumbotron.jpg
 heading: Have a cup of joe with Les!
 subheading: Wake up and stay that way for a couple of hours
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why coffee with Les?
+  description: >-
+    Les is not only a decent guy, he makes a darn good cup of coffee. Whether
+    it's a fru-fru Euro vanilla frap cappuccino, or just a good 'ol honest
+    American strong dark roast, Les will have it in front of you in minutes.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Les could give a Rat's rear end about where the coffee comes from, how it was
+  picked and whether or not indigenous small children were exploited. Darn it,
+  why can't coffee just be coffee?
 intro:
   blurbs:
     - image: /img/coffee.png
