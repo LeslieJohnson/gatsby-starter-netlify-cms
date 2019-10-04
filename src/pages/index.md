@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Coffee with Les
 image: /img/home-jumbotron.jpg
-heading: Have a cup of joe with Les!
+heading: Have a cup of joe with Les and Denise!
 subheading: Wake up and stay that way for a couple of hours
 mainpitch:
   title: Why coffee with Les?
